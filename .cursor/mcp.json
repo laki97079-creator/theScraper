@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ultracode": {
+      "command": "bun",
+      "args": ["~/.bun/install/global/node_modules/ultracode/dist/index.js", "/workspace"],
+      "env": {}
+    }
+  }
+}
