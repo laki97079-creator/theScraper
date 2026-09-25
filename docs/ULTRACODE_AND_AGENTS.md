@@ -17,7 +17,7 @@ From `webapp/app.py`, `webapp/scraper.py`, `webapp/utils.py`, `tests/`, `Dockerf
 | Cursor MCP wiring | `.cursor/mcp.json` | `ultracode` server via `bun` |
 | Node pin | `.nvmrc` | `24` (ultracode requires Node ≥ 24) |
 
-## Install (verified 2026-09-25 on this VM)
+## Install (verified 2026-09-25 on this VM; update-checked 2026-09-25 — latest remains 5.15.0)
 
 Project deps + tests:
 
